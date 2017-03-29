@@ -1,0 +1,14 @@
+Source: minutor
+Section: utils
+Priority: extra
+Maintainer: Sean Kasun <sean@seancode.com>
+Build-Depends: debhelper (>= 8), qtbase5-dev, qt5-qmake, qtchooser, zlib1g-dev
+Standards-Version: 3.9.3
+Homepage: http://seancode.com/minutor/
+
+Package: minutor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Minecraft mapping tool
+ Minutor lets you view and inspect your Minecraft worlds.
+ It is designed for Minecraft 1.2 and later.

@@ -1,0 +1,327 @@
+{
+  "name": "Vanilla",
+  "type": "entity",
+  "version": "1.11.16w39a",
+  "data": [
+    {
+      "category": "Hostile",
+      "catcolor": "#ff0000",
+      "entity": [
+        {
+          "id": "Blaze",
+          "color": "#ffff00"
+        },
+        {
+          "id": "CaveSpider",
+          "id1": "cave_spider",
+          "color": "#808000"
+        },
+        {
+          "id": "Creeper",
+          "color": "#00ff00"
+        },
+        {
+          "id": "EnderDragon",
+          "id1": "ender_dragon",
+          "color": "#ff00ff"
+        },
+        {
+          "id": "Enderman",
+          "color": "#800080"
+        },
+        {
+          "id": "Endermite",
+          "color": "#ff00ff"
+        },
+        {
+          "id": "Ghast",
+          "color": "#ffffff"
+        },
+        {
+          "id": "Guardian",
+          "color": "#000080"
+        },
+        {
+          "id": "elder_guardian",
+          "color": "#000080"
+        },
+        {
+          "id": "LavaSlime",
+          "id1": "magma_cube",
+          "color": "#00ffff"
+        },
+        {
+          "id": "Shulker",
+          "color": "#795479"
+        },
+        {
+          "id": "Silverfish",
+          "color": "#808080"
+        },
+        {
+          "id": "Skeleton",
+          "color": "#c0c0c0"
+        },
+        {
+          "id": "stray",
+          "color": "#c0c0c0"
+        },
+        {
+          "id": "wither_skeleton",
+          "color": "#c0c0c0"
+        },
+        {
+          "id": "Slime",
+          "color": "#00ffff"
+        },
+        {
+          "id": "Spider",
+          "color": "#000000"
+        },
+        {
+          "id": "Witch",
+          "color": "#008080"
+        },
+        {
+          "id": "WitherBoss",
+          "id1": "wither",
+          "name": "Wither",
+          "color": "#808080"
+        },
+        {
+          "id": "Zombie",
+          "color": "#008000"
+        },
+        {
+          "id": "zombie_villager",
+          "color": "#008000"
+        },
+        {
+          "id": "husk",
+          "color": "#008000"
+        },
+        {
+          "id": "PigZombie",
+          "id1": "zombie_pigman",
+          "name": "Zombie Pigman",
+          "color": "#008000"
+        }
+      ]
+    },
+    {
+      "category": "Passive",
+      "catcolor": "#ffffff",
+      "entity": [
+        {
+          "id": "Bat",
+          "color": "#800000"
+        },
+        {
+          "id": "Chicken",
+          "color": "#ffff00"
+        },
+        {
+          "id": "Cow",
+          "color": "#008080"
+        },
+        {
+          "id": "EntityHorse",
+          "id1": "horse",
+          "name": "Horse",
+          "color": "#000080"
+        },
+        {
+          "id": "donkey",
+          "color": "#000080"
+        },
+        {
+          "id": "mule",
+          "color": "#000080"
+        },
+        {
+          "id": "skeleton_horse",
+          "color": "#000080"
+        },
+        {
+          "id": "zombie_horse",
+          "color": "#000080"
+        },
+        {
+          "id": "llama",
+          "color": "Khaki"
+        },
+        {
+          "id": "Pig",
+          "color": "#ff00ff"
+        },
+        {
+          "id": "MushroomCow",
+          "id1": "mooshroom",
+          "name": "Mooshroom",
+          "color": "#ff0000"
+        },
+        {
+          "id": "Ozelot",
+          "color": "#808000"
+        },
+        {
+          "id": "PolarBear",
+          "id1": "polar_bear",
+          "color": "#404040"
+        },
+        {
+          "id": "Rabbit",
+          "color": "#a0a0a4"
+        },
+        {
+          "id": "Sheep",
+          "color": "#c0c0c0"
+        },
+        {
+          "id": "SnowMan",
+          "id1": "snow_man",
+          "color": "#ffffff"
+        },
+        {
+          "id": "Squid",
+          "color": "#000000"
+        },
+        {
+          "id": "Wolf",
+          "color": "#808080"
+        },
+        {
+          "id": "Villager",
+          "color": "#800080"
+        },
+        {
+          "id": "vindication_illager",
+          "name": "Vindicator",
+          "color": "#800080"
+        },
+        {
+          "id": "evocation_illager",
+          "name": "Evoker",
+          "color": "#800080"
+        },
+        {
+          "id": "vex",
+          "color": "#800080"
+        },
+        {
+          "id": "VillagerGolem",
+          "id1": "villager_golem",
+          "name": "Iron Golem",
+          "color": "#00ffff"
+        }
+      ]
+    },
+    {
+      "category": "Others",
+      "catcolor": "lightgray",
+      "entity": [
+        {
+          "id": "XPOrb",
+          "id1": "xp_orb",
+          "name": "XP Orb",
+          "catcolor": "GreenYellow",
+          "color": "Gold"
+        },
+        {
+          "id": "LeashKnot",
+          "id1": "leash_knot",
+          "catcolor": "GreenYellow",
+          "color": "SandyBrown"
+        },
+        {
+          "id": "EnderCrystal",
+          "id1": "ender_crystal",
+          "catcolor": "Plum",
+          "color": "SkyBlue"
+        },
+        {
+          "id": "Boat",
+          "catcolor": "DarkOrange",
+          "color": "Sienna"
+        },
+        {
+          "id": "MinecartCommandBlock",
+          "id1": "commandblock_minecart",
+          "name": "CommandBlock Minecart",
+          "catcolor": "DarkOrange",
+          "color": "HotPink"
+        },
+        {
+          "id": "MinecartRideable",
+          "id1": "minecart",
+          "name": "Minecart",
+          "catcolor": "DarkOrange",
+          "color": "#a0a0a0"
+        },
+        {
+          "id": "MinecartChest",
+          "id1": "chest_minecart",
+          "name": "Chest Minecart",
+          "catcolor": "DarkOrange",
+          "color": "SaddleBrown"
+        },
+        {
+          "id": "MinecartFurnace",
+          "id1": "furnace_minecart",
+          "name": "Furnace Minecart",
+          "catcolor": "DarkOrange",
+          "color": "#202020"
+        },
+        {
+          "id": "MinecartTNT",
+          "id1": "tnt_minecart",
+          "name": "TNT Minecart",
+          "catcolor": "DarkOrange",
+          "color": "#ff0000"
+        },
+        {
+          "id": "MinecartHopper",
+          "id1": "hopper_minecart",
+          "name": "Hopper Minecart",
+          "catcolor": "DarkOrange",
+          "color": "#808080"
+        },
+        {
+          "id": "MinecartSpawner",
+          "id1": "spawner_minecart",
+          "name": "Spawner Minecart",
+          "catcolor": "DarkOrange",
+          "color": "Plum"
+        },
+        {
+          "id": "Painting",
+          "catcolor": "Violet",
+          "color": "OrangeRed"
+        },
+        {
+          "id": "ItemFrame",
+          "id1": "item_frame",
+          "catcolor": "Violet",
+          "color": "Seashell"
+        },
+        {
+          "id": "ArmorStand",
+          "id1": "armor_stand",
+          "catcolor": "Violet",
+          "color": "Aquamarine"
+        }
+      ]
+    },
+    {
+      "category": "Items",
+      "catcolor": "#0000ff",
+      "entity": [
+        {
+          "id": "Item",
+          "color": "#ffffff"
+        }
+      ]
+    }
+  ],
+  "update": "https://github.com/mrkite/minutor/raw/master/definitions/vanilla_entity.json"
+}
